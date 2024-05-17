@@ -1,0 +1,14 @@
+Architect A, who was Self-Taught, presents Hastily Sketched blueprints proposing to build a Tower of Steel and Dreams
+Architect B, who was Apprenticed under R. Penrose, presents Hastily Sketched blueprints proposing to build a Mansion of Steel and Nightmares
+Architect C, who was Apprenticed under R. Penrose, presents Obsessively Detailed blueprints proposing to build a Library of Wood and Glass
+Architect D, who was Apprenticed under B. Johnson, presents Obsessively Detailed blueprints proposing to build a Tower of Steel and Silver
+Architect E, who was Apprenticed under P. Stamatin, presents Obsessively Detailed blueprints proposing to build a Mechanism of Silver and Wood
+Architect F, who was Apprenticed under R. Penrose, presents Hastily Sketched blueprints proposing to build a Mansion of Silver and Dreams
+Architect G, who was Apprenticed under P. Stamatin, presents Hastily Sketched blueprints proposing to build a Mechanism of Glass and Nightmares
+Architect H, who was Apprenticed under B. Johnson, presents Obsessively Detailed blueprints proposing to build a Tower of Silver and Steel
+Architect I, who was Self-Taught, presents Obsessively Detailed blueprints proposing to build a Mansion of Wood and Glass
+Architect J, who was Apprenticed under T. Geisel, presents Hastily Sketched blueprints proposing to build a Tower of Wood and Glass
+Architect K, who was Apprenticed under P. Stamatin, presents Hastily Sketched blueprints proposing to build a Library of Glass and Dreams
+Architect L, who was Self-Taught, presents Obsessively Detailed blueprints proposing to build a Mechanism of Steel and Wood
+Architect M, who was Apprenticed under T. Geisel, presents Hastily Sketched blueprints proposing to build a Tower of Glass and Steel
+Architect N, who was Self-Taught, presents Hastily Sketched blueprints proposing to build a Mechanism of Steel and Wood
